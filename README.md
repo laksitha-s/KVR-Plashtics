@@ -12,10 +12,11 @@ Developed an intuitive UX design for a hanger-selling app, optimizing user flow,
 - 🧩 **Component-Based Layouts** – Modular design for scalability  
 
 ## Screenshots
-*<img width="360" height="800" alt="KVR (1)" src="https://github.com/user-attachments/assets/86320290-7422-4d38-ad8b-2237ff420f18" />
-<img width="360" height="800" alt="KVR (2)" src="https://github.com/user-attachments/assets/7f008932-cdcd-4bb3-915f-80adbcbd13a8" />
+*
 <img width="360" height="800" alt="KVR (3)" src="https://github.com/user-attachments/assets/6384a31e-3419-400d-bfce-701a22420884" />
 <img width="360" height="800" alt="KVR (4)" src="https://github.com/user-attachments/assets/f1b6e02a-1907-48cc-869d-0d16182df38b" />
+<img width="360" height="800" alt="KVR (1)" src="https://github.com/user-attachments/assets/86320290-7422-4d38-ad8b-2237ff420f18" />
+<img width="360" height="800" alt="KVR (2)" src="https://github.com/user-attachments/assets/7f008932-cdcd-4bb3-915f-80adbcbd13a8" />
 *  
 
 ## Key Features
